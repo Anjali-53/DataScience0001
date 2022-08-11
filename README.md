@@ -106,7 +106,7 @@
 
 ~[Strings]
 
--[Question 1]
+-[Question 1](https://github.com/Anjali-53/DataScience0001/issues/87#issue-1335700011)
 -[Question 2]
 -[Question 3]
 -[Question 4]
