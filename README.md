@@ -108,12 +108,12 @@
 
 -[Question 1](https://github.com/Anjali-53/DataScience0001/issues/87#issue-1335700011)
 -[Question 2](https://github.com/Anjali-53/DataScience0001/issues/88#issue-1335700951)
--[Question 3]
--[Question 5](https://github.com/Anjali-53/DataScience0001/issues/90#issue-1335702774)
--[Question 6](https://github.com/Anjali-53/DataScience0001/issues/91#issue-1335703633)
--[Question 7](https://github.com/Anjali-53/DataScience0001/issues/92#issue-1335704385)
--[Question 8](https://github.com/Anjali-53/DataScience0001/issues/93#issue-1335706715)
--[Question 9](https://github.com/Anjali-53/DataScience0001/issues/94#issue-1335707358)
--[Question 10](https://github.com/Anjali-53/DataScience0001/issues/95#issue-1335709701)
--[Question 11](https://github.com/Anjali-53/DataScience0001/issues/96#issue-1335710984)
+-[Question 3](https://github.com/Anjali-53/DataScience0001/issues/89#issue-1335701816)
+-[Question 4](https://github.com/Anjali-53/DataScience0001/issues/90#issue-1335702774)
+-[Question 5](https://github.com/Anjali-53/DataScience0001/issues/91#issue-1335703633)
+-[Question 6](https://github.com/Anjali-53/DataScience0001/issues/92#issue-1335704385)
+-[Question 7](https://github.com/Anjali-53/DataScience0001/issues/93#issue-1335706715)
+-[Question 8](https://github.com/Anjali-53/DataScience0001/issues/94#issue-1335707358)
+-[Question 9](https://github.com/Anjali-53/DataScience0001/issues/95#issue-1335709701)
+-[Question 10](https://github.com/Anjali-53/DataScience0001/issues/96#issue-1335710984)
 
