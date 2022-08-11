@@ -53,7 +53,7 @@
 -[Question 9]
 -[Question 10]
 -[Question 11]
--[Question 12]
+-[Question 12](https://github.com/Anjali-53/DataScience0001/issues/46#issue-1335570239)
 -[Question 13](https://github.com/Anjali-53/DataScience0001/issues/47#issue-1335574062)
 
 ~[Sets]
