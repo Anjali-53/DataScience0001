@@ -110,7 +110,7 @@
 -[Question 2]
 -[Question 3]
 -[Question 4]
--[Question 6]
+-[Question 6](https://github.com/Anjali-53/DataScience0001/issues/90#issue-1335702774)
 -[Question 7](https://github.com/Anjali-53/DataScience0001/issues/91#issue-1335703633)
 -[Question 8](https://github.com/Anjali-53/DataScience0001/issues/92#issue-1335704385)
 -[Question 9](https://github.com/Anjali-53/DataScience0001/issues/93#issue-1335706715)
