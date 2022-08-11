@@ -102,7 +102,7 @@
 -[Question 7]
 -[Question 8]
 -[Question 9]
--[Question 10]
+-[Question 10](https://github.com/Anjali-53/DataScience0001/issues/86#issue-1335690254)
 
 ~[Strings]
 
