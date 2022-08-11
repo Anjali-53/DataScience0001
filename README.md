@@ -74,7 +74,7 @@
 ~[List]
 
 -[Question 1]
--[Question 2]
+-[Question 2](https://github.com/Anjali-53/DataScience0001/issues/61#issue-1335649268)
 -[Question 3]
 -[Question 4]
 -[Question 5](https://github.com/Anjali-53/DataScience0001/issues/64#issue-1335651895)
