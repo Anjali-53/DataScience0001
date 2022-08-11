@@ -66,7 +66,7 @@
 -[Question 6]
 -[Question 7]
 -[Question 8]
--[Question 9]
+-[Question 9](https://github.com/Anjali-53/DataScience0001/issues/56#issue-1335620791)
 -[Question 10](https://github.com/Anjali-53/DataScience0001/issues/57#issue-1335621721)
 -[Question 11](https://github.com/Anjali-53/DataScience0001/issues/58#issue-1335623407)
 -[Question 12](https://github.com/Anjali-53/DataScience0001/issues/59#issue-1335624588)
