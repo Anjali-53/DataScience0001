@@ -1,6 +1,6 @@
 # DataScience0001
 ~[Basic Python]
--[Question 1]
+-[Question 1](https://github.com/Anjali-53/DataScience0001/issues/1#issue-1335500143)
 -[Question 2]
 -[Question 3]
 -[Question 4]
