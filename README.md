@@ -94,7 +94,7 @@
 ~[Tuple]
 
 -[Question 1](https://github.com/Anjali-53/DataScience0001/issues/77#issue-1335683166)
--[Question 2]
+-[Question 2](https://github.com/Anjali-53/DataScience0001/issues/78#issue-1335683862)
 -[Question 3](https://github.com/Anjali-53/DataScience0001/issues/79#issue-1335684688)
 -[Question 4](https://github.com/Anjali-53/DataScience0001/issues/80#issue-1335685493)
 -[Question 5](https://github.com/Anjali-53/DataScience0001/issues/81#issue-1335686395)
