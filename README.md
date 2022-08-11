@@ -98,7 +98,7 @@
 -[Question 3](https://github.com/Anjali-53/DataScience0001/issues/79#issue-1335684688)
 -[Question 4]
 -[Question 5]
--[Question 6]
+-[Question 6](https://github.com/Anjali-53/DataScience0001/issues/82#issue-1335687212)
 -[Question 7](https://github.com/Anjali-53/DataScience0001/issues/83#issue-1335688142)
 -[Question 8](https://github.com/Anjali-53/DataScience0001/issues/84#issue-1335688806)
 -[Question 9](https://github.com/Anjali-53/DataScience0001/issues/85#issue-1335689475)
