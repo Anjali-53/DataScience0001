@@ -29,7 +29,7 @@
 -[Question 27]
 -[Question 28]
 -[Question 29]
--[Question 30]
+-[Question 30](https://github.com/Anjali-53/DataScience0001/issues/30#issue-1335531197)
 
 ~[Array]
 
