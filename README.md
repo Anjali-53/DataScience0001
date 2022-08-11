@@ -24,7 +24,7 @@
 -[Question 22]
 -[Question 23]
 -[Question 24]
--[Question 25]
+-[Question 25](https://github.com/Anjali-53/DataScience0001/issues/25#issue-1335525062)
 -[Question 26](https://github.com/Anjali-53/DataScience0001/issues/26#issue-1335525977)
 -[Question 27](https://github.com/Anjali-53/DataScience0001/issues/27#issue-1335527983)
 -[Question 28](https://github.com/Anjali-53/DataScience0001/issues/28#issue-1335528741)
