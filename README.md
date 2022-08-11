@@ -21,7 +21,7 @@
 -[Question 19]
 -[Question 20]
 -[Question 21]
--[Question 22]
+-[Question 22](https://github.com/Anjali-53/DataScience0001/issues/22#issue-1335522852)
 -[Question 23](https://github.com/Anjali-53/DataScience0001/issues/23#issue-1335523451)
 -[Question 24](https://github.com/Anjali-53/DataScience0001/issues/24#issue-1335524427)
 -[Question 25](https://github.com/Anjali-53/DataScience0001/issues/25#issue-1335525062)
