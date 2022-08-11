@@ -1,5 +1,7 @@
 # DataScience0001
+
 ~[Basic Python]
+
 -[Question 1](https://github.com/Anjali-53/DataScience0001/issues/1#issue-1335500143)
 -[Question 2](https://github.com/Anjali-53/DataScience0001/issues/2#issue-1335503756)
 -[Question 3](https://github.com/Anjali-53/DataScience0001/issues/3#issue-1335505506)
@@ -33,7 +35,7 @@
 
 ~[Array]
 
--[Question 1]
+-[Question 1](https://github.com/Anjali-53/DataScience0001/issues/31#issue-1335554663)
 -[Question 2](https://github.com/Anjali-53/DataScience0001/issues/32#issue-1335555407)
 -[Question 3](https://github.com/Anjali-53/DataScience0001/issues/33#issue-1335556070)
 -[Question 4](https://github.com/Anjali-53/DataScience0001/issues/34#issue-1335556915)
