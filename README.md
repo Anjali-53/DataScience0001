@@ -9,7 +9,7 @@
 -[Question 7]
 -[Question 8]
 -[Question 9]
--[Question 10]
+-[Question 10](https://github.com/Anjali-53/DataScience0001/issues/10#issue-1335513425)
 -[Question 11](https://github.com/Anjali-53/DataScience0001/issues/11#issue-1335513958)
 -[Question 12](https://github.com/Anjali-53/DataScience0001/issues/12#issue-1335514640)
 -[Question 13](https://github.com/Anjali-53/DataScience0001/issues/13#issue-1335515242)
