@@ -43,7 +43,7 @@
 ~[Dictionary]
 
 -[Question 1]
--[Question 2]
+-[Question 2](https://github.com/Anjali-53/DataScience0001/issues/36#issue-1335562352)
 -[Question 3](https://github.com/Anjali-53/DataScience0001/issues/37#issue-1335563039)
 -[Question 4](https://github.com/Anjali-53/DataScience0001/issues/38#issue-1335563673)
 -[Question 5](https://github.com/Anjali-53/DataScience0001/issues/39#issue-1335564431)
