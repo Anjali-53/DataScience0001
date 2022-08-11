@@ -2,7 +2,7 @@
 ~[Basic Python]
 -[Question 1](https://github.com/Anjali-53/DataScience0001/issues/1#issue-1335500143)
 -[Question 2](https://github.com/Anjali-53/DataScience0001/issues/2#issue-1335503756)
--[Question 3]
+-[Question 3](https://github.com/Anjali-53/DataScience0001/issues/3#issue-1335505506)
 -[Question 4](https://github.com/Anjali-53/DataScience0001/issues/4#issue-1335506259)
 -[Question 5](https://github.com/Anjali-53/DataScience0001/issues/5#issue-1335508491)
 -[Question 6](https://github.com/Anjali-53/DataScience0001/issues/6#issue-1335510406)
